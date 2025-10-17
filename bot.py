@@ -29,7 +29,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s]: %(m
 
 # ---------- CONFIG (EDIT) ----------
 TOKEN = os.getenv("DISCORD_TOKEN")
-GUILD_ID = 1402882455056420895
+GUILD_ID = 1402880152505155647
 
 COOLDOWN_FILE = "cooldowns.json"
 INVITES_FILE = "invites.json"
